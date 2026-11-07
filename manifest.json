@@ -1,0 +1,3504 @@
+{
+ "collection": "The Triton Collection",
+ "base": "https://raw.githubusercontent.com/keithcole813/beat-lab-sounds/main/",
+ "programs": [
+  {
+   "category": "SE",
+   "name": "applause",
+   "path": "triton/se/applause.wav",
+   "bytes": 3659676
+  },
+  {
+   "category": "SE",
+   "name": "bad weather",
+   "path": "triton/se/bad-weather.wav",
+   "bytes": 3603116
+  },
+  {
+   "category": "SE",
+   "name": "bird tweet",
+   "path": "triton/se/bird-tweet.wav",
+   "bytes": 23340
+  },
+  {
+   "category": "SE",
+   "name": "birds&bugs",
+   "path": "triton/se/birds-bugs.wav",
+   "bytes": 3644372
+  },
+  {
+   "category": "SE",
+   "name": "birdtweet",
+   "path": "triton/se/birdtweet.wav",
+   "bytes": 2347780
+  },
+  {
+   "category": "SE",
+   "name": "black box",
+   "path": "triton/se/black-box.wav",
+   "bytes": 3654732
+  },
+  {
+   "category": "SE",
+   "name": "breath noise",
+   "path": "triton/se/breath-noise.wav",
+   "bytes": 297044
+  },
+  {
+   "category": "SE",
+   "name": "bubble",
+   "path": "triton/se/bubble.wav",
+   "bytes": 3633028
+  },
+  {
+   "category": "SE",
+   "name": "car crash",
+   "path": "triton/se/car-crash.wav",
+   "bytes": 545140
+  },
+  {
+   "category": "SE",
+   "name": "car engine",
+   "path": "triton/se/car-engine.wav",
+   "bytes": 3713424
+  },
+  {
+   "category": "SE",
+   "name": "car pass",
+   "path": "triton/se/car-pass.wav",
+   "bytes": 492876
+  },
+  {
+   "category": "SE",
+   "name": "car stop",
+   "path": "triton/se/car-stop.wav",
+   "bytes": 178984
+  },
+  {
+   "category": "SE",
+   "name": "compu-shift",
+   "path": "triton/se/compu-shift.wav",
+   "bytes": 3595996
+  },
+  {
+   "category": "SE",
+   "name": "cosmic toys",
+   "path": "triton/se/cosmic-toys.wav",
+   "bytes": 3513680
+  },
+  {
+   "category": "SE",
+   "name": "cosmic waves",
+   "path": "triton/se/cosmic-waves.wav",
+   "bytes": 3600472
+  },
+  {
+   "category": "SE",
+   "name": "cript-on",
+   "path": "triton/se/cript-on.wav",
+   "bytes": 3514588
+  },
+  {
+   "category": "SE",
+   "name": "cyborg factory hit",
+   "path": "triton/se/cyborg-factory-hit.wav",
+   "bytes": 3692692
+  },
+  {
+   "category": "SE",
+   "name": "dark night",
+   "path": "triton/se/dark-night.wav",
+   "bytes": 3591744
+  },
+  {
+   "category": "SE",
+   "name": "distant lights",
+   "path": "triton/se/distant-lights.wav",
+   "bytes": 3629184
+  },
+  {
+   "category": "SE",
+   "name": "dj touch",
+   "path": "triton/se/dj-touch.wav",
+   "bytes": 3640728
+  },
+  {
+   "category": "SE",
+   "name": "dog",
+   "path": "triton/se/dog.wav",
+   "bytes": 60612
+  },
+  {
+   "category": "SE",
+   "name": "door dreaking",
+   "path": "triton/se/door-dreaking.wav",
+   "bytes": 262932
+  },
+  {
+   "category": "SE",
+   "name": "door slamming",
+   "path": "triton/se/door-slamming.wav",
+   "bytes": 202392
+  },
+  {
+   "category": "SE",
+   "name": "explosion",
+   "path": "triton/se/explosion.wav",
+   "bytes": 859416
+  },
+  {
+   "category": "SE",
+   "name": "flute key click",
+   "path": "triton/se/flute-key-click.wav",
+   "bytes": 8892
+  },
+  {
+   "category": "SE",
+   "name": "footsteps",
+   "path": "triton/se/footsteps.wav",
+   "bytes": 75408
+  },
+  {
+   "category": "SE",
+   "name": "frozen glaciers",
+   "path": "triton/se/frozen-glaciers.wav",
+   "bytes": 3594992
+  },
+  {
+   "category": "SE",
+   "name": "goa lover",
+   "path": "triton/se/goa-lover.wav",
+   "bytes": 549144
+  },
+  {
+   "category": "SE",
+   "name": "gunshot",
+   "path": "triton/se/gunshot.wav",
+   "bytes": 463912
+  },
+  {
+   "category": "SE",
+   "name": "heartbeat",
+   "path": "triton/se/heartbeat.wav",
+   "bytes": 199640
+  },
+  {
+   "category": "SE",
+   "name": "helicopter",
+   "path": "triton/se/helicopter.wav",
+   "bytes": 3659732
+  },
+  {
+   "category": "SE",
+   "name": "hemispheres",
+   "path": "triton/se/hemispheres.wav",
+   "bytes": 3631792
+  },
+  {
+   "category": "SE",
+   "name": "horse gallop",
+   "path": "triton/se/horse-gallop.wav",
+   "bytes": 1913764
+  },
+  {
+   "category": "SE",
+   "name": "just doit!!",
+   "path": "triton/se/just-doit.wav",
+   "bytes": 103244
+  },
+  {
+   "category": "SE",
+   "name": "laughing",
+   "path": "triton/se/laughing.wav",
+   "bytes": 224520
+  },
+  {
+   "category": "SE",
+   "name": "lazergun",
+   "path": "triton/se/lazergun.wav",
+   "bytes": 320756
+  },
+  {
+   "category": "SE",
+   "name": "loonie bin",
+   "path": "triton/se/loonie-bin.wav",
+   "bytes": 3619960
+  },
+  {
+   "category": "SE",
+   "name": "loop iteria",
+   "path": "triton/se/loop-iteria.wav",
+   "bytes": 3627924
+  },
+  {
+   "category": "SE",
+   "name": "machinegun",
+   "path": "triton/se/machinegun.wav",
+   "bytes": 3681092
+  },
+  {
+   "category": "SE",
+   "name": "monster island",
+   "path": "triton/se/monster-island.wav",
+   "bytes": 3567188
+  },
+  {
+   "category": "SE",
+   "name": "motionsoundtrack",
+   "path": "triton/se/motionsoundtrack.wav",
+   "bytes": 3542284
+  },
+  {
+   "category": "SE",
+   "name": "new voyage",
+   "path": "triton/se/new-voyage.wav",
+   "bytes": 3628376
+  },
+  {
+   "category": "SE",
+   "name": "one note stories",
+   "path": "triton/se/one-note-stories.wav",
+   "bytes": 3617500
+  },
+  {
+   "category": "SE",
+   "name": "orbiting probes",
+   "path": "triton/se/orbiting-probes.wav",
+   "bytes": 3623024
+  },
+  {
+   "category": "SE",
+   "name": "punch",
+   "path": "triton/se/punch.wav",
+   "bytes": 118412
+  },
+  {
+   "category": "SE",
+   "name": "rain",
+   "path": "triton/se/rain.wav",
+   "bytes": 3461020
+  },
+  {
+   "category": "SE",
+   "name": "reverse cymbal",
+   "path": "triton/se/reverse-cymbal.wav",
+   "bytes": 223036
+  },
+  {
+   "category": "SE",
+   "name": "scratch",
+   "path": "triton/se/scratch.wav",
+   "bytes": 96396
+  },
+  {
+   "category": "SE",
+   "name": "screaming",
+   "path": "triton/se/screaming.wav",
+   "bytes": 210648
+  },
+  {
+   "category": "SE",
+   "name": "seashore",
+   "path": "triton/se/seashore.wav",
+   "bytes": 1142516
+  },
+  {
+   "category": "SE",
+   "name": "shirk hit",
+   "path": "triton/se/shirk-hit.wav",
+   "bytes": 3631324
+  },
+  {
+   "category": "SE",
+   "name": "siren",
+   "path": "triton/se/siren.wav",
+   "bytes": 4366780
+  },
+  {
+   "category": "SE",
+   "name": "sonic blast",
+   "path": "triton/se/sonic-blast.wav",
+   "bytes": 952488
+  },
+  {
+   "category": "SE",
+   "name": "sound scapes",
+   "path": "triton/se/sound-scapes.wav",
+   "bytes": 3759936
+  },
+  {
+   "category": "SE",
+   "name": "steam sweeps",
+   "path": "triton/se/steam-sweeps.wav",
+   "bytes": 3632180
+  },
+  {
+   "category": "SE",
+   "name": "stream",
+   "path": "triton/se/stream.wav",
+   "bytes": 3645436
+  },
+  {
+   "category": "SE",
+   "name": "telephone 1",
+   "path": "triton/se/telephone-1.wav",
+   "bytes": 3679856
+  },
+  {
+   "category": "SE",
+   "name": "telephone 2",
+   "path": "triton/se/telephone-2.wav",
+   "bytes": 3662636
+  },
+  {
+   "category": "SE",
+   "name": "the great wall",
+   "path": "triton/se/the-great-wall.wav",
+   "bytes": 3636992
+  },
+  {
+   "category": "SE",
+   "name": "thunder",
+   "path": "triton/se/thunder.wav",
+   "bytes": 1241264
+  },
+  {
+   "category": "SE",
+   "name": "unholy water",
+   "path": "triton/se/unholy-water.wav",
+   "bytes": 3570940
+  },
+  {
+   "category": "SE",
+   "name": "vanishing planet",
+   "path": "triton/se/vanishing-planet.wav",
+   "bytes": 3600536
+  },
+  {
+   "category": "SE",
+   "name": "venustian stories",
+   "path": "triton/se/venustian-stories.wav",
+   "bytes": 3836264
+  },
+  {
+   "category": "SE",
+   "name": "videoblaster",
+   "path": "triton/se/videoblaster.wav",
+   "bytes": 735080
+  },
+  {
+   "category": "SE",
+   "name": "wind",
+   "path": "triton/se/wind.wav",
+   "bytes": 3642148
+  },
+  {
+   "category": "SE",
+   "name": "windchime",
+   "path": "triton/se/windchime.wav",
+   "bytes": 3628436
+  },
+  {
+   "category": "SE",
+   "name": "wispy dry wind",
+   "path": "triton/se/wispy-dry-wind.wav",
+   "bytes": 3644096
+  },
+  {
+   "category": "bass",
+   "name": "30303 mega bass",
+   "path": "triton/bass/30303-mega-bass.wav",
+   "bytes": 3646944
+  },
+  {
+   "category": "bass",
+   "name": "30303 square bass",
+   "path": "triton/bass/30303-square-bass.wav",
+   "bytes": 3628464
+  },
+  {
+   "category": "bass",
+   "name": "a bass buzzing",
+   "path": "triton/bass/a-bass-buzzing.wav",
+   "bytes": 2641856
+  },
+  {
+   "category": "bass",
+   "name": "acoustic bass ",
+   "path": "triton/bass/acoustic-bass.wav",
+   "bytes": 3607624
+  },
+  {
+   "category": "bass",
+   "name": "acoustic bass",
+   "path": "triton/bass/acoustic-bass-2.wav",
+   "bytes": 2111148
+  },
+  {
+   "category": "bass",
+   "name": "attack pulse",
+   "path": "triton/bass/attack-pulse.wav",
+   "bytes": 3835948
+  },
+  {
+   "category": "bass",
+   "name": "bass string slap",
+   "path": "triton/bass/bass-string-slap.wav",
+   "bytes": 64096
+  },
+  {
+   "category": "bass",
+   "name": "blind as a bat",
+   "path": "triton/bass/blind-as-a-bat.wav",
+   "bytes": 3627500
+  },
+  {
+   "category": "bass",
+   "name": "clavi bass",
+   "path": "triton/bass/clavi-bass.wav",
+   "bytes": 3628348
+  },
+  {
+   "category": "bass",
+   "name": "dark rand b bass",
+   "path": "triton/bass/dark-rand-b-bass.wav",
+   "bytes": 3660612
+  },
+  {
+   "category": "bass",
+   "name": "decayed bass",
+   "path": "triton/bass/decayed-bass.wav",
+   "bytes": 3654852
+  },
+  {
+   "category": "bass",
+   "name": "digi syn bass",
+   "path": "triton/bass/digi-syn-bass.wav",
+   "bytes": 3721700
+  },
+  {
+   "category": "bass",
+   "name": "digibass 1",
+   "path": "triton/bass/digibass-1.wav",
+   "bytes": 3684972
+  },
+  {
+   "category": "bass",
+   "name": "digibass 2",
+   "path": "triton/bass/digibass-2.wav",
+   "bytes": 3625856
+  },
+  {
+   "category": "bass",
+   "name": "dirtyman bass",
+   "path": "triton/bass/dirtyman-bass.wav",
+   "bytes": 3620388
+  },
+  {
+   "category": "bass",
+   "name": "dynathumb bass",
+   "path": "triton/bass/dynathumb-bass.wav",
+   "bytes": 1704472
+  },
+  {
+   "category": "bells mallet",
+   "name": "bali gamelon",
+   "path": "triton/bells-mallet/bali-gamelon.wav",
+   "bytes": 697128
+  },
+  {
+   "category": "bells mallet",
+   "name": "bottle bell",
+   "path": "triton/bells-mallet/bottle-bell.wav",
+   "bytes": 1410632
+  },
+  {
+   "category": "bells mallet",
+   "name": "breathy bells",
+   "path": "triton/bells-mallet/breathy-bells.wav",
+   "bytes": 1695484
+  },
+  {
+   "category": "bells mallet",
+   "name": "carilion",
+   "path": "triton/bells-mallet/carilion.wav",
+   "bytes": 734468
+  },
+  {
+   "category": "bells mallet",
+   "name": "celesta",
+   "path": "triton/bells-mallet/celesta.wav",
+   "bytes": 775076
+  },
+  {
+   "category": "bells mallet",
+   "name": "church bells",
+   "path": "triton/bells-mallet/church-bells.wav",
+   "bytes": 2762348
+  },
+  {
+   "category": "bells mallet",
+   "name": "crystal",
+   "path": "triton/bells-mallet/crystal.wav",
+   "bytes": 732188
+  },
+  {
+   "category": "bells mallet",
+   "name": "digi bell",
+   "path": "triton/bells-mallet/digi-bell.wav",
+   "bytes": 1366100
+  },
+  {
+   "category": "bells mallet",
+   "name": "digital bells 2",
+   "path": "triton/bells-mallet/digital-bells-2.wav",
+   "bytes": 1000696
+  },
+  {
+   "category": "bells mallet",
+   "name": "digital bells",
+   "path": "triton/bells-mallet/digital-bells.wav",
+   "bytes": 1405324
+  },
+  {
+   "category": "bells mallet",
+   "name": "ensemble bells",
+   "path": "triton/bells-mallet/ensemble-bells.wav",
+   "bytes": 1265292
+  },
+  {
+   "category": "bells mallet",
+   "name": "finger cymbal",
+   "path": "triton/bells-mallet/finger-cymbal.wav",
+   "bytes": 1124128
+  },
+  {
+   "category": "bells mallet",
+   "name": "future bell",
+   "path": "triton/bells-mallet/future-bell.wav",
+   "bytes": 1969884
+  },
+  {
+   "category": "bells mallet",
+   "name": "garbage mallets",
+   "path": "triton/bells-mallet/garbage-mallets.wav",
+   "bytes": 519480
+  },
+  {
+   "category": "bells mallet",
+   "name": "glass bell bright",
+   "path": "triton/bells-mallet/glass-bell-bright.wav",
+   "bytes": 815220
+  },
+  {
+   "category": "bells mallet",
+   "name": "glockenspiel",
+   "path": "triton/bells-mallet/glockenspiel.wav",
+   "bytes": 525856
+  },
+  {
+   "category": "bells mallet",
+   "name": "gogo",
+   "path": "triton/bells-mallet/gogo.wav",
+   "bytes": 444652
+  },
+  {
+   "category": "bells mallet",
+   "name": "hybrid bell",
+   "path": "triton/bells-mallet/hybrid-bell.wav",
+   "bytes": 1626480
+  },
+  {
+   "category": "bells mallet",
+   "name": "kalimba soft",
+   "path": "triton/bells-mallet/kalimba-soft.wav",
+   "bytes": 1393352
+  },
+  {
+   "category": "bells mallet",
+   "name": "kalimba",
+   "path": "triton/bells-mallet/kalimba.wav",
+   "bytes": 509332
+  },
+  {
+   "category": "bells mallet",
+   "name": "krystal bells",
+   "path": "triton/bells-mallet/krystal-bells.wav",
+   "bytes": 1575080
+  },
+  {
+   "category": "bells mallet",
+   "name": "log drum bells",
+   "path": "triton/bells-mallet/log-drum-bells.wav",
+   "bytes": 1549860
+  },
+  {
+   "category": "bells mallet",
+   "name": "log drum",
+   "path": "triton/bells-mallet/log-drum.wav",
+   "bytes": 273388
+  },
+  {
+   "category": "bells mallet",
+   "name": "magical bells",
+   "path": "triton/bells-mallet/magical-bells.wav",
+   "bytes": 1742384
+  },
+  {
+   "category": "bells mallet",
+   "name": "mallet clocker",
+   "path": "triton/bells-mallet/mallet-clocker.wav",
+   "bytes": 3662432
+  },
+  {
+   "category": "bells mallet",
+   "name": "marimba ",
+   "path": "triton/bells-mallet/marimba.wav",
+   "bytes": 737148
+  },
+  {
+   "category": "bells mallet",
+   "name": "marimba w",
+   "path": "triton/bells-mallet/marimba-w.wav",
+   "bytes": 440520
+  },
+  {
+   "category": "bells mallet",
+   "name": "marimba",
+   "path": "triton/bells-mallet/marimba-2.wav",
+   "bytes": 1167996
+  },
+  {
+   "category": "bells mallet",
+   "name": "mondo'rimba",
+   "path": "triton/bells-mallet/mondo-rimba.wav",
+   "bytes": 1261996
+  },
+  {
+   "category": "bells mallet",
+   "name": "monkey skulls",
+   "path": "triton/bells-mallet/monkey-skulls.wav",
+   "bytes": 410232
+  },
+  {
+   "category": "bells mallet",
+   "name": "moving bellz",
+   "path": "triton/bells-mallet/moving-bellz.wav",
+   "bytes": 2259468
+  },
+  {
+   "category": "bells mallet",
+   "name": "music box",
+   "path": "triton/bells-mallet/music-box.wav",
+   "bytes": 607400
+  },
+  {
+   "category": "bells mallet",
+   "name": "ribbon rhythm",
+   "path": "triton/bells-mallet/ribbon-rhythm.wav",
+   "bytes": 481804
+  },
+  {
+   "category": "bells mallet",
+   "name": "steel drums",
+   "path": "triton/bells-mallet/steel-drums.wav",
+   "bytes": 726828
+  },
+  {
+   "category": "bells mallet",
+   "name": "synthmallet",
+   "path": "triton/bells-mallet/synthmallet.wav",
+   "bytes": 1270636
+  },
+  {
+   "category": "bells mallet",
+   "name": "thin bells-park",
+   "path": "triton/bells-mallet/thin-bells-park.wav",
+   "bytes": 1083260
+  },
+  {
+   "category": "bells mallet",
+   "name": "tinkle bell",
+   "path": "triton/bells-mallet/tinkle-bell.wav",
+   "bytes": 889828
+  },
+  {
+   "category": "bells mallet",
+   "name": "tinkle bells",
+   "path": "triton/bells-mallet/tinkle-bells.wav",
+   "bytes": 902164
+  },
+  {
+   "category": "bells mallet",
+   "name": "tropico bells",
+   "path": "triton/bells-mallet/tropico-bells.wav",
+   "bytes": 1612584
+  },
+  {
+   "category": "bells mallet",
+   "name": "tubular bells",
+   "path": "triton/bells-mallet/tubular-bells.wav",
+   "bytes": 2164620
+  },
+  {
+   "category": "bells mallet",
+   "name": "velo kalimba",
+   "path": "triton/bells-mallet/velo-kalimba.wav",
+   "bytes": 1006008
+  },
+  {
+   "category": "bells mallet",
+   "name": "vibra phone",
+   "path": "triton/bells-mallet/vibra-phone.wav",
+   "bytes": 2837980
+  },
+  {
+   "category": "bells mallet",
+   "name": "vibraphone w",
+   "path": "triton/bells-mallet/vibraphone-w.wav",
+   "bytes": 1397860
+  },
+  {
+   "category": "bells mallet",
+   "name": "vibraphone",
+   "path": "triton/bells-mallet/vibraphone.wav",
+   "bytes": 1376884
+  },
+  {
+   "category": "bells mallet",
+   "name": "vs bell boy",
+   "path": "triton/bells-mallet/vs-bell-boy.wav",
+   "bytes": 1092692
+  },
+  {
+   "category": "bells mallet",
+   "name": "warm steel drum",
+   "path": "triton/bells-mallet/warm-steel-drum.wav",
+   "bytes": 807328
+  },
+  {
+   "category": "bells mallet",
+   "name": "xylophone",
+   "path": "triton/bells-mallet/xylophone.wav",
+   "bytes": 727088
+  },
+  {
+   "category": "brass",
+   "name": "attack brass st",
+   "path": "triton/brass/attack-brass-st.wav",
+   "bytes": 3617056
+  },
+  {
+   "category": "brass",
+   "name": "bambusilverflute",
+   "path": "triton/brass/bambusilverflute.wav",
+   "bytes": 3629544
+  },
+  {
+   "category": "brass",
+   "name": "bassoon",
+   "path": "triton/brass/bassoon.wav",
+   "bytes": 3630436
+  },
+  {
+   "category": "brass",
+   "name": "bebopcornet",
+   "path": "triton/brass/bebopcornet.wav",
+   "bytes": 3664328
+  },
+  {
+   "category": "brass",
+   "name": "big band plunger",
+   "path": "triton/brass/big-band-plunger.wav",
+   "bytes": 3644788
+  },
+  {
+   "category": "brass",
+   "name": "brass expression",
+   "path": "triton/brass/brass-expression.wav",
+   "bytes": 3626148
+  },
+  {
+   "category": "brass",
+   "name": "brass section 1",
+   "path": "triton/brass/brass-section-1.wav",
+   "bytes": 3624856
+  },
+  {
+   "category": "brass",
+   "name": "brass section2",
+   "path": "triton/brass/brass-section2.wav",
+   "bytes": 3615596
+  },
+  {
+   "category": "brass",
+   "name": "brassslow",
+   "path": "triton/brass/brassslow.wav",
+   "bytes": 3643228
+  },
+  {
+   "category": "brass",
+   "name": "bright trumbone",
+   "path": "triton/brass/bright-trumbone.wav",
+   "bytes": 3623584
+  },
+  {
+   "category": "brass",
+   "name": "burnin brass",
+   "path": "triton/brass/burnin-brass.wav",
+   "bytes": 3679760
+  },
+  {
+   "category": "brass",
+   "name": "classic fanfare",
+   "path": "triton/brass/classic-fanfare.wav",
+   "bytes": 3629432
+  },
+  {
+   "category": "brass",
+   "name": "classic fhorn",
+   "path": "triton/brass/classic-fhorn.wav",
+   "bytes": 3645076
+  },
+  {
+   "category": "brass",
+   "name": "dynabrassstereo1",
+   "path": "triton/brass/dynabrassstereo1.wav",
+   "bytes": 3636132
+  },
+  {
+   "category": "brass",
+   "name": "dynbrassstereo2",
+   "path": "triton/brass/dynbrassstereo2.wav",
+   "bytes": 3657944
+  },
+  {
+   "category": "brass",
+   "name": "englishhorn",
+   "path": "triton/brass/englishhorn.wav",
+   "bytes": 3605596
+  },
+  {
+   "category": "brass",
+   "name": "fat brass",
+   "path": "triton/brass/fat-brass.wav",
+   "bytes": 3666500
+  },
+  {
+   "category": "brass",
+   "name": "film brass",
+   "path": "triton/brass/film-brass.wav",
+   "bytes": 3628116
+  },
+  {
+   "category": "brass",
+   "name": "flute",
+   "path": "triton/brass/flute.wav",
+   "bytes": 3625976
+  },
+  {
+   "category": "brass",
+   "name": "french horn section",
+   "path": "triton/brass/french-horn-section.wav",
+   "bytes": 3643644
+  },
+  {
+   "category": "brass",
+   "name": "french horn",
+   "path": "triton/brass/french-horn.wav",
+   "bytes": 3564176
+  },
+  {
+   "category": "brass",
+   "name": "glen&theboys",
+   "path": "triton/brass/glen-theboys.wav",
+   "bytes": 3597012
+  },
+  {
+   "category": "brass",
+   "name": "horns&ensemble",
+   "path": "triton/brass/horns-ensemble.wav",
+   "bytes": 3606936
+  },
+  {
+   "category": "brass",
+   "name": "movie brass",
+   "path": "triton/brass/movie-brass.wav",
+   "bytes": 3665588
+  },
+  {
+   "category": "brass",
+   "name": "muted trumpet 1",
+   "path": "triton/brass/muted-trumpet-1.wav",
+   "bytes": 3648016
+  },
+  {
+   "category": "brass",
+   "name": "muted trumpet 2",
+   "path": "triton/brass/muted-trumpet-2.wav",
+   "bytes": 3603136
+  },
+  {
+   "category": "brass",
+   "name": "muted trumpet",
+   "path": "triton/brass/muted-trumpet.wav",
+   "bytes": 3642196
+  },
+  {
+   "category": "brass",
+   "name": "octave brass exp",
+   "path": "triton/brass/octave-brass-exp.wav",
+   "bytes": 3643936
+  },
+  {
+   "category": "brass",
+   "name": "powerbrass",
+   "path": "triton/brass/powerbrass.wav",
+   "bytes": 3647244
+  },
+  {
+   "category": "brass",
+   "name": "sfz brass st",
+   "path": "triton/brass/sfz-brass-st.wav",
+   "bytes": 3658888
+  },
+  {
+   "category": "brass",
+   "name": "soft trumpet",
+   "path": "triton/brass/soft-trumpet.wav",
+   "bytes": 3630808
+  },
+  {
+   "category": "brass",
+   "name": "spitz bottle",
+   "path": "triton/brass/spitz-bottle.wav",
+   "bytes": 3634756
+  },
+  {
+   "category": "brass",
+   "name": "tight brass 2",
+   "path": "triton/brass/tight-brass-2.wav",
+   "bytes": 3629592
+  },
+  {
+   "category": "brass",
+   "name": "tight brass",
+   "path": "triton/brass/tight-brass.wav",
+   "bytes": 3614680
+  },
+  {
+   "category": "brass",
+   "name": "trumbone 1",
+   "path": "triton/brass/trumbone-1.wav",
+   "bytes": 3648000
+  },
+  {
+   "category": "brass",
+   "name": "trumbone ens",
+   "path": "triton/brass/trumbone-ens.wav",
+   "bytes": 3634636
+  },
+  {
+   "category": "brass",
+   "name": "trumbone hard",
+   "path": "triton/brass/trumbone-hard.wav",
+   "bytes": 3618356
+  },
+  {
+   "category": "brass",
+   "name": "trumbone2",
+   "path": "triton/brass/trumbone2.wav",
+   "bytes": 3647788
+  },
+  {
+   "category": "brass",
+   "name": "trumbones",
+   "path": "triton/brass/trumbones.wav",
+   "bytes": 3625824
+  },
+  {
+   "category": "brass",
+   "name": "trumbonesoft",
+   "path": "triton/brass/trumbonesoft.wav",
+   "bytes": 3632000
+  },
+  {
+   "category": "brass",
+   "name": "trumpet ",
+   "path": "triton/brass/trumpet.wav",
+   "bytes": 3670756
+  },
+  {
+   "category": "brass",
+   "name": "trumpet ens",
+   "path": "triton/brass/trumpet-ens.wav",
+   "bytes": 3647108
+  },
+  {
+   "category": "brass",
+   "name": "trumpet",
+   "path": "triton/brass/trumpet-2.wav",
+   "bytes": 3630444
+  },
+  {
+   "category": "brass",
+   "name": "tuba",
+   "path": "triton/brass/tuba.wav",
+   "bytes": 3643192
+  },
+  {
+   "category": "brass",
+   "name": "tubasgold",
+   "path": "triton/brass/tubasgold.wav",
+   "bytes": 3635388
+  },
+  {
+   "category": "brass",
+   "name": "warm flugel horn",
+   "path": "triton/brass/warm-flugel-horn.wav",
+   "bytes": 3627476
+  },
+  {
+   "category": "brass",
+   "name": "warm french horn",
+   "path": "triton/brass/warm-french-horn.wav",
+   "bytes": 3626724
+  },
+  {
+   "category": "brass",
+   "name": "warm oboe",
+   "path": "triton/brass/warm-oboe.wav",
+   "bytes": 3673364
+  },
+  {
+   "category": "fast synth",
+   "name": "ana brass-lead",
+   "path": "triton/fast-synth/ana-brass-lead.wav",
+   "bytes": 3671692
+  },
+  {
+   "category": "fast synth",
+   "name": "analog brass 2",
+   "path": "triton/fast-synth/analog-brass-2.wav",
+   "bytes": 3592936
+  },
+  {
+   "category": "fast synth",
+   "name": "analog brass1",
+   "path": "triton/fast-synth/analog-brass1.wav",
+   "bytes": 3740376
+  },
+  {
+   "category": "fast synth",
+   "name": "atmosphere",
+   "path": "triton/fast-synth/atmosphere.wav",
+   "bytes": 3662256
+  },
+  {
+   "category": "fast synth",
+   "name": "band passed",
+   "path": "triton/fast-synth/band-passed.wav",
+   "bytes": 3638776
+  },
+  {
+   "category": "fast synth",
+   "name": "brightness",
+   "path": "triton/fast-synth/brightness.wav",
+   "bytes": 1221300
+  },
+  {
+   "category": "fast synth",
+   "name": "chiff lead",
+   "path": "triton/fast-synth/chiff-lead.wav",
+   "bytes": 3656816
+  },
+  {
+   "category": "fast synth",
+   "name": "cosmic furnace",
+   "path": "triton/fast-synth/cosmic-furnace.wav",
+   "bytes": 3652416
+  },
+  {
+   "category": "fast synth",
+   "name": "cyberchoir",
+   "path": "triton/fast-synth/cyberchoir.wav",
+   "bytes": 3720964
+  },
+  {
+   "category": "fast synth",
+   "name": "dark element",
+   "path": "triton/fast-synth/dark-element.wav",
+   "bytes": 3672588
+  },
+  {
+   "category": "fast synth",
+   "name": "detuned sawtooth",
+   "path": "triton/fast-synth/detuned-sawtooth.wav",
+   "bytes": 3636020
+  },
+  {
+   "category": "fast synth",
+   "name": "detuned square",
+   "path": "triton/fast-synth/detuned-square.wav",
+   "bytes": 3654216
+  },
+  {
+   "category": "fast synth",
+   "name": "digital poly six",
+   "path": "triton/fast-synth/digital-poly-six.wav",
+   "bytes": 1361796
+  },
+  {
+   "category": "fast synth",
+   "name": "dirty wounds",
+   "path": "triton/fast-synth/dirty-wounds.wav",
+   "bytes": 3641736
+  },
+  {
+   "category": "fast synth",
+   "name": "double sawtooth",
+   "path": "triton/fast-synth/double-sawtooth.wav",
+   "bytes": 3642916
+  },
+  {
+   "category": "fast synth",
+   "name": "dual filterz",
+   "path": "triton/fast-synth/dual-filterz.wav",
+   "bytes": 3648340
+  },
+  {
+   "category": "fast synth",
+   "name": "echo bells",
+   "path": "triton/fast-synth/echo-bells.wav",
+   "bytes": 3597584
+  },
+  {
+   "category": "fast synth",
+   "name": "echo drops",
+   "path": "triton/fast-synth/echo-drops.wav",
+   "bytes": 3632264
+  },
+  {
+   "category": "fast synth",
+   "name": "echopan",
+   "path": "triton/fast-synth/echopan.wav",
+   "bytes": 3617288
+  },
+  {
+   "category": "fast synth",
+   "name": "fantasia",
+   "path": "triton/fast-synth/fantasia.wav",
+   "bytes": 3492076
+  },
+  {
+   "category": "fast synth",
+   "name": "fire wave",
+   "path": "triton/fast-synth/fire-wave.wav",
+   "bytes": 3668072
+  },
+  {
+   "category": "fast synth",
+   "name": "flute pad",
+   "path": "triton/fast-synth/flute-pad.wav",
+   "bytes": 3645928
+  },
+  {
+   "category": "fast synth",
+   "name": "future syn pad",
+   "path": "triton/fast-synth/future-syn-pad.wav",
+   "bytes": 3658200
+  },
+  {
+   "category": "fast synth",
+   "name": "gliding squares",
+   "path": "triton/fast-synth/gliding-squares.wav",
+   "bytes": 3621636
+  },
+  {
+   "category": "fast synth",
+   "name": "grain board",
+   "path": "triton/fast-synth/grain-board.wav",
+   "bytes": 3664320
+  },
+  {
+   "category": "fast synth",
+   "name": "ice rain",
+   "path": "triton/fast-synth/ice-rain.wav",
+   "bytes": 1637280
+  },
+  {
+   "category": "fast synth",
+   "name": "jump brass",
+   "path": "triton/fast-synth/jump-brass.wav",
+   "bytes": 4116120
+  },
+  {
+   "category": "fast synth",
+   "name": "mega big synth",
+   "path": "triton/fast-synth/mega-big-synth.wav",
+   "bytes": 3654876
+  },
+  {
+   "category": "fast synth",
+   "name": "metallic rez",
+   "path": "triton/fast-synth/metallic-rez.wav",
+   "bytes": 3645068
+  },
+  {
+   "category": "fast synth",
+   "name": "polyphonic synth",
+   "path": "triton/fast-synth/polyphonic-synth.wav",
+   "bytes": 3632612
+  },
+  {
+   "category": "fast synth",
+   "name": "pop synth pad",
+   "path": "triton/fast-synth/pop-synth-pad.wav",
+   "bytes": 3717892
+  },
+  {
+   "category": "fast synth",
+   "name": "power rez sweep",
+   "path": "triton/fast-synth/power-rez-sweep.wav",
+   "bytes": 3668208
+  },
+  {
+   "category": "fast synth",
+   "name": "power saw",
+   "path": "triton/fast-synth/power-saw.wav",
+   "bytes": 3710040
+  },
+  {
+   "category": "fast synth",
+   "name": "power snap synth",
+   "path": "triton/fast-synth/power-snap-synth.wav",
+   "bytes": 3632704
+  },
+  {
+   "category": "fast synth",
+   "name": "raunchy brass",
+   "path": "triton/fast-synth/raunchy-brass.wav",
+   "bytes": 3657248
+  },
+  {
+   "category": "fast synth",
+   "name": "rez sweep",
+   "path": "triton/fast-synth/rez-sweep.wav",
+   "bytes": 3649332
+  },
+  {
+   "category": "fast synth",
+   "name": "rezbo",
+   "path": "triton/fast-synth/rezbo.wav",
+   "bytes": 3611344
+  },
+  {
+   "category": "fast synth",
+   "name": "ribbon morpher",
+   "path": "triton/fast-synth/ribbon-morpher.wav",
+   "bytes": 3656352
+  },
+  {
+   "category": "fast synth",
+   "name": "sawtooth pulse",
+   "path": "triton/fast-synth/sawtooth-pulse.wav",
+   "bytes": 3622880
+  },
+  {
+   "category": "fast synth",
+   "name": "sharp bottle blow",
+   "path": "triton/fast-synth/sharp-bottle-blow.wav",
+   "bytes": 3637628
+  },
+  {
+   "category": "fast synth",
+   "name": "simple sawtooth",
+   "path": "triton/fast-synth/simple-sawtooth.wav",
+   "bytes": 3653868
+  },
+  {
+   "category": "fast synth",
+   "name": "square rez",
+   "path": "triton/fast-synth/square-rez.wav",
+   "bytes": 3643932
+  },
+  {
+   "category": "fast synth",
+   "name": "square snaps",
+   "path": "triton/fast-synth/square-snaps.wav",
+   "bytes": 3662876
+  },
+  {
+   "category": "fast synth",
+   "name": "star theme",
+   "path": "triton/fast-synth/star-theme.wav",
+   "bytes": 3631192
+  },
+  {
+   "category": "fast synth",
+   "name": "super saw brass",
+   "path": "triton/fast-synth/super-saw-brass.wav",
+   "bytes": 3658800
+  },
+  {
+   "category": "fast synth",
+   "name": "synth brass 1",
+   "path": "triton/fast-synth/synth-brass-1.wav",
+   "bytes": 3645836
+  },
+  {
+   "category": "fast synth",
+   "name": "synth brass 3",
+   "path": "triton/fast-synth/synth-brass-3.wav",
+   "bytes": 3628612
+  },
+  {
+   "category": "fast synth",
+   "name": "synth brass 4",
+   "path": "triton/fast-synth/synth-brass-4.wav",
+   "bytes": 3652272
+  },
+  {
+   "category": "fast synth",
+   "name": "synth brass",
+   "path": "triton/fast-synth/synth-brass.wav",
+   "bytes": 3611912
+  },
+  {
+   "category": "fast synth",
+   "name": "synth brass2",
+   "path": "triton/fast-synth/synth-brass2.wav",
+   "bytes": 3664916
+  },
+  {
+   "category": "fast synth",
+   "name": "synth calliope",
+   "path": "triton/fast-synth/synth-calliope.wav",
+   "bytes": 3613856
+  },
+  {
+   "category": "fast synth",
+   "name": "synth sweeper",
+   "path": "triton/fast-synth/synth-sweeper.wav",
+   "bytes": 3662848
+  },
+  {
+   "category": "fast synth",
+   "name": "synthpianoiod",
+   "path": "triton/fast-synth/synthpianoiod.wav",
+   "bytes": 3637228
+  },
+  {
+   "category": "fast synth",
+   "name": "techno phonic",
+   "path": "triton/fast-synth/techno-phonic.wav",
+   "bytes": 3659332
+  },
+  {
+   "category": "fast synth",
+   "name": "thunderlog",
+   "path": "triton/fast-synth/thunderlog.wav",
+   "bytes": 3646872
+  },
+  {
+   "category": "guitars",
+   "name": "12 string guitar",
+   "path": "triton/guitars/12-string-guitar.wav",
+   "bytes": 1270416
+  },
+  {
+   "category": "guitars",
+   "name": "acoustic guitar",
+   "path": "triton/guitars/acoustic-guitar.wav",
+   "bytes": 1934268
+  },
+  {
+   "category": "guitars",
+   "name": "ampd.guitar",
+   "path": "triton/guitars/ampd-guitar.wav",
+   "bytes": 3687684
+  },
+  {
+   "category": "guitars",
+   "name": "appeggioguitar",
+   "path": "triton/guitars/appeggioguitar.wav",
+   "bytes": 1436528
+  },
+  {
+   "category": "guitars",
+   "name": "banjo",
+   "path": "triton/guitars/banjo.wav",
+   "bytes": 1219848
+  },
+  {
+   "category": "guitars",
+   "name": "banjo2",
+   "path": "triton/guitars/banjo2.wav",
+   "bytes": 728868
+  },
+  {
+   "category": "guitars",
+   "name": "chorus guitar",
+   "path": "triton/guitars/chorus-guitar.wav",
+   "bytes": 2286480
+  },
+  {
+   "category": "guitars",
+   "name": "clean guitar",
+   "path": "triton/guitars/clean-guitar.wav",
+   "bytes": 2398200
+  },
+  {
+   "category": "guitars",
+   "name": "cleanmuteguitar",
+   "path": "triton/guitars/cleanmuteguitar.wav",
+   "bytes": 2004536
+  },
+  {
+   "category": "guitars",
+   "name": "country nustrings",
+   "path": "triton/guitars/country-nustrings.wav",
+   "bytes": 2273840
+  },
+  {
+   "category": "guitars",
+   "name": "detuned clean gt",
+   "path": "triton/guitars/detuned-clean-gt.wav",
+   "bytes": 3190236
+  },
+  {
+   "category": "guitars",
+   "name": "distortion guitar",
+   "path": "triton/guitars/distortion-guitar.wav",
+   "bytes": 3635940
+  },
+  {
+   "category": "guitars",
+   "name": "dynamic eguitar",
+   "path": "triton/guitars/dynamic-eguitar.wav",
+   "bytes": 2770112
+  },
+  {
+   "category": "guitars",
+   "name": "egharmonics",
+   "path": "triton/guitars/egharmonics.wav",
+   "bytes": 2673972
+  },
+  {
+   "category": "guitars",
+   "name": "feedback dist",
+   "path": "triton/guitars/feedback-dist.wav",
+   "bytes": 3630356
+  },
+  {
+   "category": "guitars",
+   "name": "feedback guitar",
+   "path": "triton/guitars/feedback-guitar.wav",
+   "bytes": 3656228
+  },
+  {
+   "category": "guitars",
+   "name": "fingertips12gtr",
+   "path": "triton/guitars/fingertips12gtr.wav",
+   "bytes": 805308
+  },
+  {
+   "category": "guitars",
+   "name": "fingertipsguitar",
+   "path": "triton/guitars/fingertipsguitar.wav",
+   "bytes": 1959848
+  },
+  {
+   "category": "guitars",
+   "name": "funkin guitar",
+   "path": "triton/guitars/funkin-guitar.wav",
+   "bytes": 757680
+  },
+  {
+   "category": "guitars",
+   "name": "funky guitar",
+   "path": "triton/guitars/funky-guitar.wav",
+   "bytes": 1321572
+  },
+  {
+   "category": "guitars",
+   "name": "gtr fret noise",
+   "path": "triton/guitars/gtr-fret-noise.wav",
+   "bytes": 134696
+  },
+  {
+   "category": "guitars",
+   "name": "gtrcutting noise",
+   "path": "triton/guitars/gtrcutting-noise.wav",
+   "bytes": 10332
+  },
+  {
+   "category": "guitars",
+   "name": "guitar feedback",
+   "path": "triton/guitars/guitar-feedback.wav",
+   "bytes": 3642700
+  },
+  {
+   "category": "guitars",
+   "name": "guitar harmonics",
+   "path": "triton/guitars/guitar-harmonics.wav",
+   "bytes": 3471596
+  },
+  {
+   "category": "guitars",
+   "name": "guitar pinch",
+   "path": "triton/guitars/guitar-pinch.wav",
+   "bytes": 2953568
+  },
+  {
+   "category": "guitars",
+   "name": "guitarish",
+   "path": "triton/guitars/guitarish.wav",
+   "bytes": 2313236
+  },
+  {
+   "category": "guitars",
+   "name": "harp",
+   "path": "triton/guitars/harp.wav",
+   "bytes": 2360568
+  },
+  {
+   "category": "guitars",
+   "name": "indian frets guitar",
+   "path": "triton/guitars/indian-frets-guitar.wav",
+   "bytes": 2352044
+  },
+  {
+   "category": "guitars",
+   "name": "indian stars",
+   "path": "triton/guitars/indian-stars.wav",
+   "bytes": 3717968
+  },
+  {
+   "category": "guitars",
+   "name": "jazz gtr",
+   "path": "triton/guitars/jazz-gtr.wav",
+   "bytes": 2337344
+  },
+  {
+   "category": "guitars",
+   "name": "jazz guitar",
+   "path": "triton/guitars/jazz-guitar.wav",
+   "bytes": 2073332
+  },
+  {
+   "category": "guitars",
+   "name": "jazzguitar",
+   "path": "triton/guitars/jazzguitar.wav",
+   "bytes": 1342152
+  },
+  {
+   "category": "guitars",
+   "name": "joystick gtr",
+   "path": "triton/guitars/joystick-gtr.wav",
+   "bytes": 1697892
+  },
+  {
+   "category": "guitars",
+   "name": "koto ",
+   "path": "triton/guitars/koto.wav",
+   "bytes": 747684
+  },
+  {
+   "category": "guitars",
+   "name": "koto",
+   "path": "triton/guitars/koto-2.wav",
+   "bytes": 736512
+  },
+  {
+   "category": "guitars",
+   "name": "mute monster",
+   "path": "triton/guitars/mute-monster.wav",
+   "bytes": 2736300
+  },
+  {
+   "category": "guitars",
+   "name": "muted gtr",
+   "path": "triton/guitars/muted-gtr.wav",
+   "bytes": 1450640
+  },
+  {
+   "category": "guitars",
+   "name": "nu strat",
+   "path": "triton/guitars/nu-strat.wav",
+   "bytes": 1442408
+  },
+  {
+   "category": "guitars",
+   "name": "nylon guitar",
+   "path": "triton/guitars/nylon-guitar.wav",
+   "bytes": 2128016
+  },
+  {
+   "category": "guitars",
+   "name": "nylonguitar",
+   "path": "triton/guitars/nylonguitar.wav",
+   "bytes": 825888
+  },
+  {
+   "category": "guitars",
+   "name": "old 12string",
+   "path": "triton/guitars/old-12string.wav",
+   "bytes": 1126944
+  },
+  {
+   "category": "guitars",
+   "name": "orchest. harp",
+   "path": "triton/guitars/orchest-harp.wav",
+   "bytes": 3682100
+  },
+  {
+   "category": "guitars",
+   "name": "overdrive guitar",
+   "path": "triton/guitars/overdrive-guitar.wav",
+   "bytes": 3129672
+  },
+  {
+   "category": "guitars",
+   "name": "pedal steel guitar",
+   "path": "triton/guitars/pedal-steel-guitar.wav",
+   "bytes": 1708184
+  },
+  {
+   "category": "guitars",
+   "name": "pedalsteel guitar",
+   "path": "triton/guitars/pedalsteel-guitar.wav",
+   "bytes": 3638292
+  },
+  {
+   "category": "guitars",
+   "name": "piezomixguitar",
+   "path": "triton/guitars/piezomixguitar.wav",
+   "bytes": 2068332
+  },
+  {
+   "category": "guitars",
+   "name": "powerchords",
+   "path": "triton/guitars/powerchords.wav",
+   "bytes": 3717376
+  },
+  {
+   "category": "guitars",
+   "name": "processed eguitar",
+   "path": "triton/guitars/processed-eguitar.wav",
+   "bytes": 1684956
+  },
+  {
+   "category": "guitars",
+   "name": "rhythmic e gtr",
+   "path": "triton/guitars/rhythmic-e-gtr.wav",
+   "bytes": 1620572
+  },
+  {
+   "category": "guitars",
+   "name": "santur",
+   "path": "triton/guitars/santur.wav",
+   "bytes": 739160
+  },
+  {
+   "category": "guitars",
+   "name": "shamisen",
+   "path": "triton/guitars/shamisen.wav",
+   "bytes": 729164
+  },
+  {
+   "category": "guitars",
+   "name": "single coil+piezo",
+   "path": "triton/guitars/single-coil-piezo.wav",
+   "bytes": 2228268
+  },
+  {
+   "category": "guitars",
+   "name": "sitar-sitar",
+   "path": "triton/guitars/sitar-sitar.wav",
+   "bytes": 2253848
+  },
+  {
+   "category": "guitars",
+   "name": "sitar-tamoura",
+   "path": "triton/guitars/sitar-tamoura.wav",
+   "bytes": 2973852
+  },
+  {
+   "category": "guitars",
+   "name": "sitar1",
+   "path": "triton/guitars/sitar1.wav",
+   "bytes": 875868
+  },
+  {
+   "category": "guitars",
+   "name": "sitar2",
+   "path": "triton/guitars/sitar2.wav",
+   "bytes": 1505324
+  },
+  {
+   "category": "guitars",
+   "name": "small harp",
+   "path": "triton/guitars/small-harp.wav",
+   "bytes": 1616452
+  },
+  {
+   "category": "guitars",
+   "name": "spanish guitar",
+   "path": "triton/guitars/spanish-guitar.wav",
+   "bytes": 2117136
+  },
+  {
+   "category": "guitars",
+   "name": "steel guitar",
+   "path": "triton/guitars/steel-guitar.wav",
+   "bytes": 1172220
+  },
+  {
+   "category": "guitars",
+   "name": "strato chime",
+   "path": "triton/guitars/strato-chime.wav",
+   "bytes": 1351856
+  },
+  {
+   "category": "guitars",
+   "name": "superclean guitar",
+   "path": "triton/guitars/superclean-guitar.wav",
+   "bytes": 2107728
+  },
+  {
+   "category": "guitars",
+   "name": "taisho",
+   "path": "triton/guitars/taisho.wav",
+   "bytes": 528068
+  },
+  {
+   "category": "guitars",
+   "name": "themandolin",
+   "path": "triton/guitars/themandolin.wav",
+   "bytes": 819420
+  },
+  {
+   "category": "guitars",
+   "name": "tr gtr 3",
+   "path": "triton/guitars/tr-gtr-3.wav",
+   "bytes": 870576
+  },
+  {
+   "category": "guitars",
+   "name": "tr gtr1",
+   "path": "triton/guitars/tr-gtr1.wav",
+   "bytes": 1110772
+  },
+  {
+   "category": "guitars",
+   "name": "tr gtr5",
+   "path": "triton/guitars/tr-gtr5.wav",
+   "bytes": 2992080
+  },
+  {
+   "category": "guitars",
+   "name": "trgtr 4",
+   "path": "triton/guitars/trgtr-4.wav",
+   "bytes": 670952
+  },
+  {
+   "category": "guitars",
+   "name": "trgtr2",
+   "path": "triton/guitars/trgtr2.wav",
+   "bytes": 1330980
+  },
+  {
+   "category": "guitars",
+   "name": "uklele",
+   "path": "triton/guitars/uklele.wav",
+   "bytes": 307272
+  },
+  {
+   "category": "guitars",
+   "name": "vintage stratt",
+   "path": "triton/guitars/vintage-stratt.wav",
+   "bytes": 1499148
+  },
+  {
+   "category": "guitars",
+   "name": "vox wah chicks",
+   "path": "triton/guitars/vox-wah-chicks.wav",
+   "bytes": 23856
+  },
+  {
+   "category": "guitars",
+   "name": "wet distguitar",
+   "path": "triton/guitars/wet-distguitar.wav",
+   "bytes": 3676808
+  },
+  {
+   "category": "guitars",
+   "name": "yangchin",
+   "path": "triton/guitars/yangchin.wav",
+   "bytes": 451628
+  },
+  {
+   "category": "hits",
+   "name": "6th hit",
+   "path": "triton/hits/6th-hit.wav",
+   "bytes": 72668
+  },
+  {
+   "category": "hits",
+   "name": "Brass impact hit",
+   "path": "triton/hits/brass-impact-hit.wav",
+   "bytes": 137476
+  },
+  {
+   "category": "hits",
+   "name": "arp angeles",
+   "path": "triton/hits/arp-angeles.wav",
+   "bytes": 3999356
+  },
+  {
+   "category": "hits",
+   "name": "arp twins",
+   "path": "triton/hits/arp-twins.wav",
+   "bytes": 113012
+  },
+  {
+   "category": "hits",
+   "name": "auto groove",
+   "path": "triton/hits/auto-groove.wav",
+   "bytes": 3653204
+  },
+  {
+   "category": "hits",
+   "name": "auto pilot",
+   "path": "triton/hits/auto-pilot.wav",
+   "bytes": 173908
+  },
+  {
+   "category": "hits",
+   "name": "bass hit plus",
+   "path": "triton/hits/bass-hit-plus.wav",
+   "bytes": 232248
+  },
+  {
+   "category": "hits",
+   "name": "big hit in india",
+   "path": "triton/hits/big-hit-in-india.wav",
+   "bytes": 299736
+  },
+  {
+   "category": "hits",
+   "name": "chipper dayglow",
+   "path": "triton/hits/chipper-dayglow.wav",
+   "bytes": 1066704
+  },
+  {
+   "category": "hits",
+   "name": "euro hit",
+   "path": "triton/hits/euro-hit.wav",
+   "bytes": 188464
+  },
+  {
+   "category": "hits",
+   "name": "flip blip",
+   "path": "triton/hits/flip-blip.wav",
+   "bytes": 172260
+  },
+  {
+   "category": "hits",
+   "name": "goa message",
+   "path": "triton/hits/goa-message.wav",
+   "bytes": 3633584
+  },
+  {
+   "category": "hits",
+   "name": "hit me 2 times!!",
+   "path": "triton/hits/hit-me-2-times.wav",
+   "bytes": 225244
+  },
+  {
+   "category": "hits",
+   "name": "jungle melody",
+   "path": "triton/hits/jungle-melody.wav",
+   "bytes": 2210184
+  },
+  {
+   "category": "hits",
+   "name": "motion raver",
+   "path": "triton/hits/motion-raver.wav",
+   "bytes": 3645576
+  },
+  {
+   "category": "hits",
+   "name": "old record hit 1",
+   "path": "triton/hits/old-record-hit-1.wav",
+   "bytes": 64628
+  },
+  {
+   "category": "hits",
+   "name": "old record hit 2",
+   "path": "triton/hits/old-record-hit-2.wav",
+   "bytes": 546780
+  },
+  {
+   "category": "hits",
+   "name": "orchestra hit",
+   "path": "triton/hits/orchestra-hit.wav",
+   "bytes": 384196
+  },
+  {
+   "category": "hits",
+   "name": "organ impact",
+   "path": "triton/hits/organ-impact.wav",
+   "bytes": 445472
+  },
+  {
+   "category": "hits",
+   "name": "percusive hits",
+   "path": "triton/hits/percusive-hits.wav",
+   "bytes": 264984
+  },
+  {
+   "category": "hits",
+   "name": "pop guitarhit",
+   "path": "triton/hits/pop-guitarhit.wav",
+   "bytes": 119260
+  },
+  {
+   "category": "hits",
+   "name": "raggae hit",
+   "path": "triton/hits/raggae-hit.wav",
+   "bytes": 246784
+  },
+  {
+   "category": "hits",
+   "name": "rave ribbon",
+   "path": "triton/hits/rave-ribbon.wav",
+   "bytes": 3609804
+  },
+  {
+   "category": "hits",
+   "name": "rave stabz",
+   "path": "triton/hits/rave-stabz.wav",
+   "bytes": 3637484
+  },
+  {
+   "category": "hits",
+   "name": "rave voulutionary",
+   "path": "triton/hits/rave-voulutionary.wav",
+   "bytes": 3638780
+  },
+  {
+   "category": "hits",
+   "name": "sequenced analog",
+   "path": "triton/hits/sequenced-analog.wav",
+   "bytes": 61484
+  },
+  {
+   "category": "hits",
+   "name": "staccatoPizzhit",
+   "path": "triton/hits/staccatopizzhit.wav",
+   "bytes": 458720
+  },
+  {
+   "category": "hits",
+   "name": "techno organ",
+   "path": "triton/hits/techno-organ.wav",
+   "bytes": 3629384
+  },
+  {
+   "category": "hits",
+   "name": "techno stat",
+   "path": "triton/hits/techno-stat.wav",
+   "bytes": 1943044
+  },
+  {
+   "category": "hits",
+   "name": "the avenger",
+   "path": "triton/hits/the-avenger.wav",
+   "bytes": 3772756
+  },
+  {
+   "category": "hits",
+   "name": "wild arp",
+   "path": "triton/hits/wild-arp.wav",
+   "bytes": 52512
+  },
+  {
+   "category": "leads",
+   "name": "5th sawtooth",
+   "path": "triton/leads/5th-sawtooth.wav",
+   "bytes": 3633852
+  },
+  {
+   "category": "leads",
+   "name": "Dancelead",
+   "path": "triton/leads/dancelead.wav",
+   "bytes": 3619072
+  },
+  {
+   "category": "leads",
+   "name": "R&b lead",
+   "path": "triton/leads/r-b-lead.wav",
+   "bytes": 6188388
+  },
+  {
+   "category": "leads",
+   "name": "a lead load",
+   "path": "triton/leads/a-lead-load.wav",
+   "bytes": 3592280
+  },
+  {
+   "category": "leads",
+   "name": "amsfeedbacklead",
+   "path": "triton/leads/amsfeedbacklead.wav",
+   "bytes": 3708576
+  },
+  {
+   "category": "leads",
+   "name": "bass&lead",
+   "path": "triton/leads/bass-lead.wav",
+   "bytes": 3662324
+  },
+  {
+   "category": "leads",
+   "name": "brian's sync",
+   "path": "triton/leads/brian-s-sync.wav",
+   "bytes": 3644644
+  },
+  {
+   "category": "leads",
+   "name": "brightpulse lead",
+   "path": "triton/leads/brightpulse-lead.wav",
+   "bytes": 3635028
+  },
+  {
+   "category": "leads",
+   "name": "busy sync",
+   "path": "triton/leads/busy-sync.wav",
+   "bytes": 3799196
+  },
+  {
+   "category": "leads",
+   "name": "cat lead",
+   "path": "triton/leads/cat-lead.wav",
+   "bytes": 2405992
+  },
+  {
+   "category": "leads",
+   "name": "charang",
+   "path": "triton/leads/charang.wav",
+   "bytes": 3649272
+  },
+  {
+   "category": "leads",
+   "name": "electro lead",
+   "path": "triton/leads/electro-lead.wav",
+   "bytes": 3642520
+  },
+  {
+   "category": "leads",
+   "name": "espress lead",
+   "path": "triton/leads/espress-lead.wav",
+   "bytes": 3896468
+  },
+  {
+   "category": "leads",
+   "name": "fat syn sync",
+   "path": "triton/leads/fat-syn-sync.wav",
+   "bytes": 3657808
+  },
+  {
+   "category": "leads",
+   "name": "glide lead",
+   "path": "triton/leads/glide-lead.wav",
+   "bytes": 3656620
+  },
+  {
+   "category": "leads",
+   "name": "hiphop lead",
+   "path": "triton/leads/hiphop-lead.wav",
+   "bytes": 3639776
+  },
+  {
+   "category": "leads",
+   "name": "mini lead",
+   "path": "triton/leads/mini-lead.wav",
+   "bytes": 3620788
+  },
+  {
+   "category": "leads",
+   "name": "octo lead",
+   "path": "triton/leads/octo-lead.wav",
+   "bytes": 3624176
+  },
+  {
+   "category": "leads",
+   "name": "old portamento",
+   "path": "triton/leads/old-portamento.wav",
+   "bytes": 9429712
+  },
+  {
+   "category": "leads",
+   "name": "old&analog",
+   "path": "triton/leads/old-analog.wav",
+   "bytes": 3652800
+  },
+  {
+   "category": "leads",
+   "name": "phat saw lead",
+   "path": "triton/leads/phat-saw-lead.wav",
+   "bytes": 3662544
+  },
+  {
+   "category": "leads",
+   "name": "resres one",
+   "path": "triton/leads/resres-one.wav",
+   "bytes": 3640748
+  },
+  {
+   "category": "leads",
+   "name": "ribbonyoheadoff!",
+   "path": "triton/leads/ribbonyoheadoff.wav",
+   "bytes": 3619376
+  },
+  {
+   "category": "leads",
+   "name": "rich lead",
+   "path": "triton/leads/rich-lead.wav",
+   "bytes": 3642624
+  },
+  {
+   "category": "leads",
+   "name": "seq ddl lead",
+   "path": "triton/leads/seq-ddl-lead.wav",
+   "bytes": 3656220
+  },
+  {
+   "category": "leads",
+   "name": "simple sine",
+   "path": "triton/leads/simple-sine.wav",
+   "bytes": 3675204
+  },
+  {
+   "category": "leads",
+   "name": "simple square",
+   "path": "triton/leads/simple-square.wav",
+   "bytes": 3646040
+  },
+  {
+   "category": "leads",
+   "name": "sine switcher",
+   "path": "triton/leads/sine-switcher.wav",
+   "bytes": 3617808
+  },
+  {
+   "category": "leads",
+   "name": "smooth sine lead",
+   "path": "triton/leads/smooth-sine-lead.wav",
+   "bytes": 3786668
+  },
+  {
+   "category": "leads",
+   "name": "soft wurl",
+   "path": "triton/leads/soft-wurl.wav",
+   "bytes": 4270668
+  },
+  {
+   "category": "leads",
+   "name": "square wave lead",
+   "path": "triton/leads/square-wave-lead.wav",
+   "bytes": 3822056
+  },
+  {
+   "category": "leads",
+   "name": "sync kronicity",
+   "path": "triton/leads/sync-kronicity.wav",
+   "bytes": 3511196
+  },
+  {
+   "category": "leads",
+   "name": "syncro city",
+   "path": "triton/leads/syncro-city.wav",
+   "bytes": 3708820
+  },
+  {
+   "category": "leads",
+   "name": "synpipes",
+   "path": "triton/leads/synpipes.wav",
+   "bytes": 3620156
+  },
+  {
+   "category": "leads",
+   "name": "thin analead",
+   "path": "triton/leads/thin-analead.wav",
+   "bytes": 3640628
+  },
+  {
+   "category": "leads",
+   "name": "trancer lead",
+   "path": "triton/leads/trancer-lead.wav",
+   "bytes": 3645644
+  },
+  {
+   "category": "leads",
+   "name": "wire lead",
+   "path": "triton/leads/wire-lead.wav",
+   "bytes": 3641668
+  },
+  {
+   "category": "leads",
+   "name": "x-synced",
+   "path": "triton/leads/x-synced.wav",
+   "bytes": 3650784
+  },
+  {
+   "category": "leads",
+   "name": "xmod raver",
+   "path": "triton/leads/xmod-raver.wav",
+   "bytes": 3664880
+  },
+  {
+   "category": "motion synths",
+   "name": "aqua phoincs",
+   "path": "triton/motion-synths/aqua-phoincs.wav",
+   "bytes": 3695036
+  },
+  {
+   "category": "motion synths",
+   "name": "astral dreams",
+   "path": "triton/motion-synths/astral-dreams.wav",
+   "bytes": 3687980
+  },
+  {
+   "category": "motion synths",
+   "name": "bpm filtersweep",
+   "path": "triton/motion-synths/bpm-filtersweep.wav",
+   "bytes": 3706796
+  },
+  {
+   "category": "motion synths",
+   "name": "crazy wahah",
+   "path": "triton/motion-synths/crazy-wahah.wav",
+   "bytes": 3718556
+  },
+  {
+   "category": "motion synths",
+   "name": "crimson 5ths",
+   "path": "triton/motion-synths/crimson-5ths.wav",
+   "bytes": 3549212
+  },
+  {
+   "category": "motion synths",
+   "name": "cyclic xfades",
+   "path": "triton/motion-synths/cyclic-xfades.wav",
+   "bytes": 3692684
+  },
+  {
+   "category": "motion synths",
+   "name": "dolphin ride",
+   "path": "triton/motion-synths/dolphin-ride.wav",
+   "bytes": 3699740
+  },
+  {
+   "category": "motion synths",
+   "name": "filtergate",
+   "path": "triton/motion-synths/filtergate.wav",
+   "bytes": 3690332
+  },
+  {
+   "category": "motion synths",
+   "name": "flying machines",
+   "path": "triton/motion-synths/flying-machines.wav",
+   "bytes": 3695036
+  },
+  {
+   "category": "motion synths",
+   "name": "fugueinlfo",
+   "path": "triton/motion-synths/fugueinlfo.wav",
+   "bytes": 3685628
+  },
+  {
+   "category": "motion synths",
+   "name": "glass vox",
+   "path": "triton/motion-synths/glass-vox.wav",
+   "bytes": 3695036
+  },
+  {
+   "category": "motion synths",
+   "name": "goblins",
+   "path": "triton/motion-synths/goblins.wav",
+   "bytes": 3650348
+  },
+  {
+   "category": "motion synths",
+   "name": "hubble pad ",
+   "path": "triton/motion-synths/hubble-pad.wav",
+   "bytes": 2380268
+  },
+  {
+   "category": "motion synths",
+   "name": "js-ribbon",
+   "path": "triton/motion-synths/js-ribbon.wav",
+   "bytes": 3697388
+  },
+  {
+   "category": "motion synths",
+   "name": "lavalakes",
+   "path": "triton/motion-synths/lavalakes.wav",
+   "bytes": 3690332
+  },
+  {
+   "category": "motion synths",
+   "name": "moon cycles",
+   "path": "triton/motion-synths/moon-cycles.wav",
+   "bytes": 3687980
+  },
+  {
+   "category": "motion synths",
+   "name": "moontalker",
+   "path": "triton/motion-synths/moontalker.wav",
+   "bytes": 3678572
+  },
+  {
+   "category": "motion synths",
+   "name": "motion ocean",
+   "path": "triton/motion-synths/motion-ocean.wav",
+   "bytes": 3690332
+  },
+  {
+   "category": "motion synths",
+   "name": "outoftheclouds",
+   "path": "triton/motion-synths/outoftheclouds.wav",
+   "bytes": 4087820
+  },
+  {
+   "category": "motion synths",
+   "name": "oxygen",
+   "path": "triton/motion-synths/oxygen.wav",
+   "bytes": 3697388
+  },
+  {
+   "category": "motion synths",
+   "name": "podsinthepad",
+   "path": "triton/motion-synths/podsinthepad.wav",
+   "bytes": 3692684
+  },
+  {
+   "category": "motion synths",
+   "name": "randompulsator",
+   "path": "triton/motion-synths/randompulsator.wav",
+   "bytes": 3716204
+  },
+  {
+   "category": "motion synths",
+   "name": "rezzo release",
+   "path": "triton/motion-synths/rezzo-release.wav",
+   "bytes": 3699740
+  },
+  {
+   "category": "motion synths",
+   "name": "rhtym of life",
+   "path": "triton/motion-synths/rhtym-of-life.wav",
+   "bytes": 3699740
+  },
+  {
+   "category": "motion synths",
+   "name": "rhythm resonator",
+   "path": "triton/motion-synths/rhythm-resonator.wav",
+   "bytes": 4111340
+  },
+  {
+   "category": "motion synths",
+   "name": "rhythmnosis ",
+   "path": "triton/motion-synths/rhythmnosis.wav",
+   "bytes": 4186604
+  },
+  {
+   "category": "motion synths",
+   "name": "solar surfing ",
+   "path": "triton/motion-synths/solar-surfing.wav",
+   "bytes": 3638588
+  },
+  {
+   "category": "motion synths",
+   "name": "space pod for 2",
+   "path": "triton/motion-synths/space-pod-for-2.wav",
+   "bytes": 3753836
+  },
+  {
+   "category": "motion synths",
+   "name": "spectrum alloy",
+   "path": "triton/motion-synths/spectrum-alloy.wav",
+   "bytes": 3704444
+  },
+  {
+   "category": "motion synths",
+   "name": "stationofwaves",
+   "path": "triton/motion-synths/stationofwaves.wav",
+   "bytes": 3699740
+  },
+  {
+   "category": "motion synths",
+   "name": "stereo rez sweep",
+   "path": "triton/motion-synths/stereo-rez-sweep.wav",
+   "bytes": 3702092
+  },
+  {
+   "category": "motion synths",
+   "name": "stereowavesweep",
+   "path": "triton/motion-synths/stereowavesweep.wav",
+   "bytes": 3706796
+  },
+  {
+   "category": "motion synths",
+   "name": "sweep pad",
+   "path": "triton/motion-synths/sweep-pad.wav",
+   "bytes": 3683276
+  },
+  {
+   "category": "motion synths",
+   "name": "swirling dreams",
+   "path": "triton/motion-synths/swirling-dreams.wav",
+   "bytes": 1935740
+  },
+  {
+   "category": "motion synths",
+   "name": "symphonic waves",
+   "path": "triton/motion-synths/symphonic-waves.wav",
+   "bytes": 3680924
+  },
+  {
+   "category": "motion synths",
+   "name": "synghostly",
+   "path": "triton/motion-synths/synghostly.wav",
+   "bytes": 3692684
+  },
+  {
+   "category": "motion synths",
+   "name": "time machines",
+   "path": "triton/motion-synths/time-machines.wav",
+   "bytes": 3699740
+  },
+  {
+   "category": "motion synths",
+   "name": "tinklin'pad",
+   "path": "triton/motion-synths/tinklin-pad.wav",
+   "bytes": 4492364
+  },
+  {
+   "category": "motion synths",
+   "name": "tomorrows pad",
+   "path": "triton/motion-synths/tomorrows-pad.wav",
+   "bytes": 3725612
+  },
+  {
+   "category": "motion synths",
+   "name": "transformaton",
+   "path": "triton/motion-synths/transformaton.wav",
+   "bytes": 3718556
+  },
+  {
+   "category": "motion synths",
+   "name": "virtual traveler",
+   "path": "triton/motion-synths/virtual-traveler.wav",
+   "bytes": 3687980
+  },
+  {
+   "category": "motion synths",
+   "name": "water is deep",
+   "path": "triton/motion-synths/water-is-deep.wav",
+   "bytes": 3699740
+  },
+  {
+   "category": "organ",
+   "name": "BX3 velo switch",
+   "path": "triton/organ/bx3-velo-switch.wav",
+   "bytes": 3594220
+  },
+  {
+   "category": "organ",
+   "name": "Super dark organ",
+   "path": "triton/organ/super-dark-organ.wav",
+   "bytes": 3616780
+  },
+  {
+   "category": "organ",
+   "name": "bx3 shortdecay",
+   "path": "triton/organ/bx3-shortdecay.wav",
+   "bytes": 3621368
+  },
+  {
+   "category": "organ",
+   "name": "c pipes",
+   "path": "triton/organ/c-pipes.wav",
+   "bytes": 3705836
+  },
+  {
+   "category": "organ",
+   "name": "church org oct",
+   "path": "triton/organ/church-org-oct.wav",
+   "bytes": 3608076
+  },
+  {
+   "category": "organ",
+   "name": "church organ",
+   "path": "triton/organ/church-organ.wav",
+   "bytes": 3594368
+  },
+  {
+   "category": "organ",
+   "name": "classic click",
+   "path": "triton/organ/classic-click.wav",
+   "bytes": 3671484
+  },
+  {
+   "category": "organ",
+   "name": "dark jazz organ",
+   "path": "triton/organ/dark-jazz-organ.wav",
+   "bytes": 3698672
+  },
+  {
+   "category": "organ",
+   "name": "det.drawbarorgan",
+   "path": "triton/organ/det-drawbarorgan.wav",
+   "bytes": 3634636
+  },
+  {
+   "category": "organ",
+   "name": "det.perc-organ",
+   "path": "triton/organ/det-perc-organ.wav",
+   "bytes": 3633956
+  },
+  {
+   "category": "organ",
+   "name": "detchurchorg",
+   "path": "triton/organ/detchurchorg.wav",
+   "bytes": 3600444
+  },
+  {
+   "category": "organ",
+   "name": "dirty jazz organ",
+   "path": "triton/organ/dirty-jazz-organ.wav",
+   "bytes": 3661796
+  },
+  {
+   "category": "organ",
+   "name": "distortion organ",
+   "path": "triton/organ/distortion-organ.wav",
+   "bytes": 3903828
+  },
+  {
+   "category": "organ",
+   "name": "drawbar organ 1",
+   "path": "triton/organ/drawbar-organ-1.wav",
+   "bytes": 3619308
+  },
+  {
+   "category": "organ",
+   "name": "drawbar organ2",
+   "path": "triton/organ/drawbar-organ2.wav",
+   "bytes": 3571272
+  },
+  {
+   "category": "organ",
+   "name": "flauto pipes",
+   "path": "triton/organ/flauto-pipes.wav",
+   "bytes": 3691652
+  },
+  {
+   "category": "organ",
+   "name": "full drawbars",
+   "path": "triton/organ/full-drawbars.wav",
+   "bytes": 3618344
+  },
+  {
+   "category": "organ",
+   "name": "full pipes",
+   "path": "triton/organ/full-pipes.wav",
+   "bytes": 3615744
+  },
+  {
+   "category": "organ",
+   "name": "good old b",
+   "path": "triton/organ/good-old-b.wav",
+   "bytes": 3672692
+  },
+  {
+   "category": "organ",
+   "name": "gospel organ",
+   "path": "triton/organ/gospel-organ.wav",
+   "bytes": 3673548
+  },
+  {
+   "category": "organ",
+   "name": "italian60's organ",
+   "path": "triton/organ/italian60-s-organ.wav",
+   "bytes": 3624020
+  },
+  {
+   "category": "organ",
+   "name": "jazz organ 1",
+   "path": "triton/organ/jazz-organ-1.wav",
+   "bytes": 3635880
+  },
+  {
+   "category": "organ",
+   "name": "jazz organ 2",
+   "path": "triton/organ/jazz-organ-2.wav",
+   "bytes": 3645176
+  },
+  {
+   "category": "organ",
+   "name": "killer b",
+   "path": "triton/organ/killer-b.wav",
+   "bytes": 3639868
+  },
+  {
+   "category": "organ",
+   "name": "killer bx-3",
+   "path": "triton/organ/killer-bx-3.wav",
+   "bytes": 3631528
+  },
+  {
+   "category": "organ",
+   "name": "m1 organ",
+   "path": "triton/organ/m1-organ.wav",
+   "bytes": 3624932
+  },
+  {
+   "category": "organ",
+   "name": "old tone-wheel",
+   "path": "triton/organ/old-tone-wheel.wav",
+   "bytes": 3653272
+  },
+  {
+   "category": "organ",
+   "name": "old vox legend",
+   "path": "triton/organ/old-vox-legend.wav",
+   "bytes": 3638232
+  },
+  {
+   "category": "organ",
+   "name": "organ positive",
+   "path": "triton/organ/organ-positive.wav",
+   "bytes": 3640808
+  },
+  {
+   "category": "organ",
+   "name": "overdrive bx3",
+   "path": "triton/organ/overdrive-bx3.wav",
+   "bytes": 3647268
+  },
+  {
+   "category": "organ",
+   "name": "perc 2nd harmonic",
+   "path": "triton/organ/perc-2nd-harmonic.wav",
+   "bytes": 3621908
+  },
+  {
+   "category": "organ",
+   "name": "perc short decay",
+   "path": "triton/organ/perc-short-decay.wav",
+   "bytes": 3683064
+  },
+  {
+   "category": "organ",
+   "name": "percussionbx3",
+   "path": "triton/organ/percussionbx3.wav",
+   "bytes": 3618172
+  },
+  {
+   "category": "organ",
+   "name": "percussiveorgan",
+   "path": "triton/organ/percussiveorgan.wav",
+   "bytes": 3649388
+  },
+  {
+   "category": "organ",
+   "name": "percussiveorgan2",
+   "path": "triton/organ/percussiveorgan2.wav",
+   "bytes": 3615180
+  },
+  {
+   "category": "organ",
+   "name": "perky tonewheels",
+   "path": "triton/organ/perky-tonewheels.wav",
+   "bytes": 3633132
+  },
+  {
+   "category": "organ",
+   "name": "pipe tutti",
+   "path": "triton/organ/pipe-tutti.wav",
+   "bytes": 3662740
+  },
+  {
+   "category": "organ",
+   "name": "pipemixture",
+   "path": "triton/organ/pipemixture.wav",
+   "bytes": 3686924
+  },
+  {
+   "category": "organ",
+   "name": "pufforgan",
+   "path": "triton/organ/pufforgan.wav",
+   "bytes": 3601176
+  },
+  {
+   "category": "organ",
+   "name": "reed organ",
+   "path": "triton/organ/reed-organ.wav",
+   "bytes": 3622128
+  },
+  {
+   "category": "organ",
+   "name": "rock organ",
+   "path": "triton/organ/rock-organ.wav",
+   "bytes": 3619280
+  },
+  {
+   "category": "organ",
+   "name": "rotary organ",
+   "path": "triton/organ/rotary-organ.wav",
+   "bytes": 3656484
+  },
+  {
+   "category": "organ",
+   "name": "sine dwgs-organ",
+   "path": "triton/organ/sine-dwgs-organ.wav",
+   "bytes": 3669708
+  },
+  {
+   "category": "organ",
+   "name": "super bx perc",
+   "path": "triton/organ/super-bx-perc.wav",
+   "bytes": 3669744
+  },
+  {
+   "category": "slowsynth",
+   "name": "analog pad",
+   "path": "triton/slowsynth/analog-pad.wav",
+   "bytes": 3842784
+  },
+  {
+   "category": "slowsynth",
+   "name": "antaric wind",
+   "path": "triton/slowsynth/antaric-wind.wav",
+   "bytes": 3670296
+  },
+  {
+   "category": "slowsynth",
+   "name": "bowed glass",
+   "path": "triton/slowsynth/bowed-glass.wav",
+   "bytes": 3621848
+  },
+  {
+   "category": "slowsynth",
+   "name": "brass pad",
+   "path": "triton/slowsynth/brass-pad.wav",
+   "bytes": 4293616
+  },
+  {
+   "category": "slowsynth",
+   "name": "cinema pad",
+   "path": "triton/slowsynth/cinema-pad.wav",
+   "bytes": 3647996
+  },
+  {
+   "category": "slowsynth",
+   "name": "clouds of air",
+   "path": "triton/slowsynth/clouds-of-air.wav",
+   "bytes": 3668172
+  },
+  {
+   "category": "slowsynth",
+   "name": "cross sweeper",
+   "path": "triton/slowsynth/cross-sweeper.wav",
+   "bytes": 3643932
+  },
+  {
+   "category": "slowsynth",
+   "name": "digi ice pad",
+   "path": "triton/slowsynth/digi-ice-pad.wav",
+   "bytes": 3618296
+  },
+  {
+   "category": "slowsynth",
+   "name": "digital throats",
+   "path": "triton/slowsynth/digital-throats.wav",
+   "bytes": 3690408
+  },
+  {
+   "category": "slowsynth",
+   "name": "electrix brass",
+   "path": "triton/slowsynth/electrix-brass.wav",
+   "bytes": 3629828
+  },
+  {
+   "category": "slowsynth",
+   "name": "freedom pad",
+   "path": "triton/slowsynth/freedom-pad.wav",
+   "bytes": 3597048
+  },
+  {
+   "category": "slowsynth",
+   "name": "ghostly strings",
+   "path": "triton/slowsynth/ghostly-strings.wav",
+   "bytes": 3638888
+  },
+  {
+   "category": "slowsynth",
+   "name": "goliaths waves",
+   "path": "triton/slowsynth/goliaths-waves.wav",
+   "bytes": 3657136
+  },
+  {
+   "category": "slowsynth",
+   "name": "harmonic pad",
+   "path": "triton/slowsynth/harmonic-pad.wav",
+   "bytes": 3636136
+  },
+  {
+   "category": "slowsynth",
+   "name": "lonely sphinx",
+   "path": "triton/slowsynth/lonely-sphinx.wav",
+   "bytes": 3626616
+  },
+  {
+   "category": "slowsynth",
+   "name": "meditate",
+   "path": "triton/slowsynth/meditate.wav",
+   "bytes": 3643716
+  },
+  {
+   "category": "slowsynth",
+   "name": "mellow movie pad",
+   "path": "triton/slowsynth/mellow-movie-pad.wav",
+   "bytes": 3623628
+  },
+  {
+   "category": "slowsynth",
+   "name": "metal slowpad",
+   "path": "triton/slowsynth/metal-slowpad.wav",
+   "bytes": 3595956
+  },
+  {
+   "category": "slowsynth",
+   "name": "metallic pad",
+   "path": "triton/slowsynth/metallic-pad.wav",
+   "bytes": 3634268
+  },
+  {
+   "category": "slowsynth",
+   "name": "money pad",
+   "path": "triton/slowsynth/money-pad.wav",
+   "bytes": 3671840
+  },
+  {
+   "category": "slowsynth",
+   "name": "noble britepad",
+   "path": "triton/slowsynth/noble-britepad.wav",
+   "bytes": 3605288
+  },
+  {
+   "category": "slowsynth",
+   "name": "ravelian pad",
+   "path": "triton/slowsynth/ravelian-pad.wav",
+   "bytes": 3632288
+  },
+  {
+   "category": "slowsynth",
+   "name": "rez",
+   "path": "triton/slowsynth/rez.wav",
+   "bytes": 3825392
+  },
+  {
+   "category": "slowsynth",
+   "name": "simple sine pad",
+   "path": "triton/slowsynth/simple-sine-pad.wav",
+   "bytes": 3813060
+  },
+  {
+   "category": "slowsynth",
+   "name": "sinepad",
+   "path": "triton/slowsynth/sinepad.wav",
+   "bytes": 3592784
+  },
+  {
+   "category": "slowsynth",
+   "name": "smoothy pad",
+   "path": "triton/slowsynth/smoothy-pad.wav",
+   "bytes": 3642976
+  },
+  {
+   "category": "slowsynth",
+   "name": "soundtrack",
+   "path": "triton/slowsynth/soundtrack.wav",
+   "bytes": 3654732
+  },
+  {
+   "category": "slowsynth",
+   "name": "super sweeper",
+   "path": "triton/slowsynth/super-sweeper.wav",
+   "bytes": 4159668
+  },
+  {
+   "category": "slowsynth",
+   "name": "sweeper strings",
+   "path": "triton/slowsynth/sweeper-strings.wav",
+   "bytes": 3732348
+  },
+  {
+   "category": "slowsynth",
+   "name": "the heaven vibe",
+   "path": "triton/slowsynth/the-heaven-vibe.wav",
+   "bytes": 3442304
+  },
+  {
+   "category": "slowsynth",
+   "name": "the pad",
+   "path": "triton/slowsynth/the-pad.wav",
+   "bytes": 3787300
+  },
+  {
+   "category": "slowsynth",
+   "name": "tsunami waves",
+   "path": "triton/slowsynth/tsunami-waves.wav",
+   "bytes": 3796168
+  },
+  {
+   "category": "slowsynth",
+   "name": "ultra res. sweep",
+   "path": "triton/slowsynth/ultra-res-sweep.wav",
+   "bytes": 3661752
+  },
+  {
+   "category": "slowsynth",
+   "name": "warm pad",
+   "path": "triton/slowsynth/warm-pad.wav",
+   "bytes": 3640784
+  },
+  {
+   "category": "strings",
+   "name": "analog strings1&2",
+   "path": "triton/strings/analog-strings1-2.wav",
+   "bytes": 3646184
+  },
+  {
+   "category": "strings",
+   "name": "analog velvet",
+   "path": "triton/strings/analog-velvet.wav",
+   "bytes": 3634484
+  },
+  {
+   "category": "strings",
+   "name": "arco string",
+   "path": "triton/strings/arco-string.wav",
+   "bytes": 3675804
+  },
+  {
+   "category": "strings",
+   "name": "camera strings",
+   "path": "triton/strings/camera-strings.wav",
+   "bytes": 3631424
+  },
+  {
+   "category": "strings",
+   "name": "cello",
+   "path": "triton/strings/cello.wav",
+   "bytes": 3781316
+  },
+  {
+   "category": "strings",
+   "name": "component strings",
+   "path": "triton/strings/component-strings.wav",
+   "bytes": 3636496
+  },
+  {
+   "category": "strings",
+   "name": "contrabass",
+   "path": "triton/strings/contrabass.wav",
+   "bytes": 3611112
+  },
+  {
+   "category": "strings",
+   "name": "ensemble&solo",
+   "path": "triton/strings/ensemble-solo.wav",
+   "bytes": 3683708
+  },
+  {
+   "category": "strings",
+   "name": "few bows here",
+   "path": "triton/strings/few-bows-here.wav",
+   "bytes": 3650880
+  },
+  {
+   "category": "strings",
+   "name": "fiddle",
+   "path": "triton/strings/fiddle.wav",
+   "bytes": 3638380
+  },
+  {
+   "category": "strings",
+   "name": "hybridstr_choir",
+   "path": "triton/strings/hybridstr-choir.wav",
+   "bytes": 3639232
+  },
+  {
+   "category": "strings",
+   "name": "legato strings",
+   "path": "triton/strings/legato-strings.wav",
+   "bytes": 3636976
+  },
+  {
+   "category": "strings",
+   "name": "octave strings",
+   "path": "triton/strings/octave-strings.wav",
+   "bytes": 3653216
+  },
+  {
+   "category": "strings",
+   "name": "pizzacto section",
+   "path": "triton/strings/pizzacto-section.wav",
+   "bytes": 284924
+  },
+  {
+   "category": "strings",
+   "name": "pizzansamble ",
+   "path": "triton/strings/pizzansamble.wav",
+   "bytes": 348292
+  },
+  {
+   "category": "strings",
+   "name": "pizzicato str",
+   "path": "triton/strings/pizzicato-str.wav",
+   "bytes": 269840
+  },
+  {
+   "category": "strings",
+   "name": "rosin strings",
+   "path": "triton/strings/rosin-strings.wav",
+   "bytes": 3619668
+  },
+  {
+   "category": "strings",
+   "name": "slow strings",
+   "path": "triton/strings/slow-strings.wav",
+   "bytes": 3633032
+  },
+  {
+   "category": "strings",
+   "name": "slow violin",
+   "path": "triton/strings/slow-violin.wav",
+   "bytes": 3634636
+  },
+  {
+   "category": "strings",
+   "name": "solo violin",
+   "path": "triton/strings/solo-violin.wav",
+   "bytes": 3639244
+  },
+  {
+   "category": "strings",
+   "name": "stereo strings ",
+   "path": "triton/strings/stereo-strings.wav",
+   "bytes": 4121188
+  },
+  {
+   "category": "strings",
+   "name": "stereo strings",
+   "path": "triton/strings/stereo-strings-2.wav",
+   "bytes": 3628796
+  },
+  {
+   "category": "strings",
+   "name": "string world",
+   "path": "triton/strings/string-world.wav",
+   "bytes": 3654624
+  },
+  {
+   "category": "strings",
+   "name": "stringquartet",
+   "path": "triton/strings/stringquartet.wav",
+   "bytes": 3656232
+  },
+  {
+   "category": "strings",
+   "name": "strings and brass",
+   "path": "triton/strings/strings-and-brass.wav",
+   "bytes": 3622236
+  },
+  {
+   "category": "strings",
+   "name": "strings",
+   "path": "triton/strings/strings.wav",
+   "bytes": 3636032
+  },
+  {
+   "category": "strings",
+   "name": "symphonic bows",
+   "path": "triton/strings/symphonic-bows.wav",
+   "bytes": 3687552
+  },
+  {
+   "category": "strings",
+   "name": "synth strings 1",
+   "path": "triton/strings/synth-strings-1.wav",
+   "bytes": 3633780
+  },
+  {
+   "category": "strings",
+   "name": "synth strings 2",
+   "path": "triton/strings/synth-strings-2.wav",
+   "bytes": 3552420
+  },
+  {
+   "category": "strings",
+   "name": "synth strings",
+   "path": "triton/strings/synth-strings.wav",
+   "bytes": 3614412
+  },
+  {
+   "category": "strings",
+   "name": "tremolo strings",
+   "path": "triton/strings/tremolo-strings.wav",
+   "bytes": 3610512
+  },
+  {
+   "category": "strings",
+   "name": "viola solo",
+   "path": "triton/strings/viola-solo.wav",
+   "bytes": 3659656
+  },
+  {
+   "category": "strings",
+   "name": "viola",
+   "path": "triton/strings/viola.wav",
+   "bytes": 3647788
+  },
+  {
+   "category": "strings",
+   "name": "violin&viola",
+   "path": "triton/strings/violin-viola.wav",
+   "bytes": 3644580
+  },
+  {
+   "category": "strings",
+   "name": "violin",
+   "path": "triton/strings/violin.wav",
+   "bytes": 3632920
+  },
+  {
+   "category": "strings",
+   "name": "watcherofthesky",
+   "path": "triton/strings/watcherofthesky.wav",
+   "bytes": 3671840
+  },
+  {
+   "category": "vocal airy",
+   "name": "aah choir",
+   "path": "triton/vocal-airy/aah-choir.wav",
+   "bytes": 3697092
+  },
+  {
+   "category": "vocal airy",
+   "name": "aah voices st",
+   "path": "triton/vocal-airy/aah-voices-st.wav",
+   "bytes": 3668476
+  },
+  {
+   "category": "vocal airy",
+   "name": "air voice",
+   "path": "triton/vocal-airy/air-voice.wav",
+   "bytes": 3624560
+  },
+  {
+   "category": "vocal airy",
+   "name": "analog voice",
+   "path": "triton/vocal-airy/analog-voice.wav",
+   "bytes": 3658884
+  },
+  {
+   "category": "vocal airy",
+   "name": "arctic winds",
+   "path": "triton/vocal-airy/arctic-winds.wav",
+   "bytes": 3641424
+  },
+  {
+   "category": "vocal airy",
+   "name": "choir aahs",
+   "path": "triton/vocal-airy/choir-aahs.wav",
+   "bytes": 3667568
+  },
+  {
+   "category": "vocal airy",
+   "name": "choir aahs2",
+   "path": "triton/vocal-airy/choir-aahs2.wav",
+   "bytes": 3725084
+  },
+  {
+   "category": "vocal airy",
+   "name": "choir mmh",
+   "path": "triton/vocal-airy/choir-mmh.wav",
+   "bytes": 3650316
+  },
+  {
+   "category": "vocal airy",
+   "name": "choir of light",
+   "path": "triton/vocal-airy/choir-of-light.wav",
+   "bytes": 3632472
+  },
+  {
+   "category": "vocal airy",
+   "name": "classic vox",
+   "path": "triton/vocal-airy/classic-vox.wav",
+   "bytes": 3639788
+  },
+  {
+   "category": "vocal airy",
+   "name": "digital throats",
+   "path": "triton/vocal-airy/digital-throats.wav",
+   "bytes": 3624404
+  },
+  {
+   "category": "vocal airy",
+   "name": "dream voices",
+   "path": "triton/vocal-airy/dream-voices.wav",
+   "bytes": 3659624
+  },
+  {
+   "category": "vocal airy",
+   "name": "ether voices",
+   "path": "triton/vocal-airy/ether-voices.wav",
+   "bytes": 3666656
+  },
+  {
+   "category": "vocal airy",
+   "name": "fresh breath",
+   "path": "triton/vocal-airy/fresh-breath.wav",
+   "bytes": 3663560
+  },
+  {
+   "category": "vocal airy",
+   "name": "full vox",
+   "path": "triton/vocal-airy/full-vox.wav",
+   "bytes": 3635704
+  },
+  {
+   "category": "vocal airy",
+   "name": "grand choir",
+   "path": "triton/vocal-airy/grand-choir.wav",
+   "bytes": 3639292
+  },
+  {
+   "category": "vocal airy",
+   "name": "halo pad",
+   "path": "triton/vocal-airy/halo-pad.wav",
+   "bytes": 3636744
+  },
+  {
+   "category": "vocal airy",
+   "name": "humming",
+   "path": "triton/vocal-airy/humming.wav",
+   "bytes": 3650144
+  },
+  {
+   "category": "vocal airy",
+   "name": "old shakuhachi",
+   "path": "triton/vocal-airy/old-shakuhachi.wav",
+   "bytes": 3615132
+  },
+  {
+   "category": "vocal airy",
+   "name": "ooh choir",
+   "path": "triton/vocal-airy/ooh-choir.wav",
+   "bytes": 3651628
+  },
+  {
+   "category": "vocal airy",
+   "name": "ooh slow voices st",
+   "path": "triton/vocal-airy/ooh-slow-voices-st.wav",
+   "bytes": 3652260
+  },
+  {
+   "category": "vocal airy",
+   "name": "ooh voices st",
+   "path": "triton/vocal-airy/ooh-voices-st.wav",
+   "bytes": 3610428
+  },
+  {
+   "category": "vocal airy",
+   "name": "ooh_aah voices st",
+   "path": "triton/vocal-airy/ooh-aah-voices-st.wav",
+   "bytes": 3676392
+  },
+  {
+   "category": "vocal airy",
+   "name": "slow choir st",
+   "path": "triton/vocal-airy/slow-choir-st.wav",
+   "bytes": 3675704
+  },
+  {
+   "category": "vocal airy",
+   "name": "space voice",
+   "path": "triton/vocal-airy/space-voice.wav",
+   "bytes": 3678812
+  },
+  {
+   "category": "vocal airy",
+   "name": "synth vox",
+   "path": "triton/vocal-airy/synth-vox.wav",
+   "bytes": 3687228
+  },
+  {
+   "category": "vocal airy",
+   "name": "take voices",
+   "path": "triton/vocal-airy/take-voices.wav",
+   "bytes": 3654344
+  },
+  {
+   "category": "vocal airy",
+   "name": "vocalesque",
+   "path": "triton/vocal-airy/vocalesque.wav",
+   "bytes": 3619972
+  },
+  {
+   "category": "vocal airy",
+   "name": "vocalscaping",
+   "path": "triton/vocal-airy/vocalscaping.wav",
+   "bytes": 3656128
+  },
+  {
+   "category": "vocal airy",
+   "name": "vocoder 1",
+   "path": "triton/vocal-airy/vocoder-1.wav",
+   "bytes": 3650536
+  },
+  {
+   "category": "vocal airy",
+   "name": "vocoder 2",
+   "path": "triton/vocal-airy/vocoder-2.wav",
+   "bytes": 3665980
+  },
+  {
+   "category": "vocal airy",
+   "name": "voice oohs",
+   "path": "triton/vocal-airy/voice-oohs.wav",
+   "bytes": 3657808
+  },
+  {
+   "category": "woodwind",
+   "name": "altosax2breath",
+   "path": "triton/woodwind/altosax2breath.wav",
+   "bytes": 3630576
+  },
+  {
+   "category": "woodwind",
+   "name": "altosaxgrowl",
+   "path": "triton/woodwind/altosaxgrowl.wav",
+   "bytes": 3633776
+  },
+  {
+   "category": "woodwind",
+   "name": "barisaxgrowl",
+   "path": "triton/woodwind/barisaxgrowl.wav",
+   "bytes": 3655464
+  },
+  {
+   "category": "woodwind",
+   "name": "breathy alto sax",
+   "path": "triton/woodwind/breathy-alto-sax.wav",
+   "bytes": 3671620
+  },
+  {
+   "category": "woodwind",
+   "name": "breathy barisax",
+   "path": "triton/woodwind/breathy-barisax.wav",
+   "bytes": 3632268
+  },
+  {
+   "category": "woodwind",
+   "name": "double reed",
+   "path": "triton/woodwind/double-reed.wav",
+   "bytes": 3598600
+  },
+  {
+   "category": "woodwind",
+   "name": "fisa americana",
+   "path": "triton/woodwind/fisa-americana.wav",
+   "bytes": 3619024
+  },
+  {
+   "category": "woodwind",
+   "name": "fisa cassotto",
+   "path": "triton/woodwind/fisa-cassotto.wav",
+   "bytes": 3666388
+  },
+  {
+   "category": "woodwind",
+   "name": "harmonica",
+   "path": "triton/woodwind/harmonica.wav",
+   "bytes": 3644580
+  },
+  {
+   "category": "woodwind",
+   "name": "itopia",
+   "path": "triton/woodwind/itopia.wav",
+   "bytes": 3905864
+  },
+  {
+   "category": "woodwind",
+   "name": "jazz clarinet",
+   "path": "triton/woodwind/jazz-clarinet.wav",
+   "bytes": 3613488
+  },
+  {
+   "category": "woodwind",
+   "name": "mixfisamaster3",
+   "path": "triton/woodwind/mixfisamaster3.wav",
+   "bytes": 3622772
+  },
+  {
+   "category": "woodwind",
+   "name": "musette",
+   "path": "triton/woodwind/musette.wav",
+   "bytes": 3628332
+  },
+  {
+   "category": "woodwind",
+   "name": "recorder",
+   "path": "triton/woodwind/recorder.wav",
+   "bytes": 3661900
+  },
+  {
+   "category": "woodwind",
+   "name": "sax ensemble",
+   "path": "triton/woodwind/sax-ensemble.wav",
+   "bytes": 3647036
+  },
+  {
+   "category": "woodwind",
+   "name": "soft tenorsax",
+   "path": "triton/woodwind/soft-tenorsax.wav",
+   "bytes": 3631732
+  },
+  {
+   "category": "woodwind",
+   "name": "soprano sax",
+   "path": "triton/woodwind/soprano-sax.wav",
+   "bytes": 3627788
+  },
+  {
+   "category": "woodwind",
+   "name": "tenor saxbrth",
+   "path": "triton/woodwind/tenor-saxbrth.wav",
+   "bytes": 3636884
+  },
+  {
+   "category": "woodwind",
+   "name": "tenorsax growl-y",
+   "path": "triton/woodwind/tenorsax-growl-y.wav",
+   "bytes": 3612340
+  }
+ ]
+}
